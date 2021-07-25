@@ -1,0 +1,251 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Prodct",
+				"Product"
+			],
+			[
+				"ce",
+				"cellspacing"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"tab",
+				"table"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"re",
+				"redirect"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"p",
+				"post"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"ac",
+				"action"
+			],
+			[
+				"cont",
+				"Controllers"
+			],
+			[
+				"prin",
+				"print_r()"
+			],
+			[
+				"pri",
+				"print_r()"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/F/xampp/htdocs/blog/tests/TestCase.php",
+		"/F/xampp/htdocs/blog/resources/views/userlist.blade.php",
+		"/F/xampp/htdocs/blog/app/Http/Controllers/DatabaseController.php",
+		"/F/xampp/htdocs/blog/resources/views/database.blade.php",
+		"/F/xampp/htdocs/blog/.env",
+		"/F/xampp/htdocs/blog/resources/lang/en/profile.php",
+		"/F/xampp/htdocs/blog/resources/views/register.blade.php",
+		"/F/xampp/htdocs/blog/app/Http/Controllers/UserController.php",
+		"/F/xampp/htdocs/blog/resources/lang/profile.php",
+		"/F/xampp/htdocs/blog/app/Http/Controllers/LoginController.php",
+		"/F/xampp/htdocs/blog/resources/views/components/header.blade.php",
+		"/F/xampp/htdocs/blog/app/Http/Controllers/GetdataController.php",
+		"/F/xampp/htdocs/blog/resources/views/getclientdata.blade.php",
+		"/F/xampp/htdocs/blog/resources/views/profile.blade.php",
+		"/F/xampp/htdocs/blog/app/View/profile.blade.php",
+		"/F/xampp/htdocs/blog/app/Http/Middleware/checkAge.php",
+		"/F/xampp/htdocs/blog/app/Http/Middleware/routeMiddleware.php",
+		"/F/xampp/htdocs/blog/app/Http/Kernel.php",
+		"/F/xampp/htdocs/blog/resources/views/noaccess.blade.php",
+		"/F/xampp/htdocs/blog/resources/views/check.blade.php",
+		"/F/xampp/htdocs/blog/app/Http/Middleware/customgroupMiddelware.php",
+		"/F/xampp/htdocs/blog/resources/views/login.blade.php",
+		"/F/xampp/htdocs/blog/resources/views/about.blade.php",
+		"/F/xampp/htdocs/blog/resources/views/inner.blade.php",
+		"/F/xampp/htdocs/blog/resources/views/welcome.blade.php",
+		"/F/xampp/htdocs/blog/resources/views/components/footer.blade.php",
+		"/F/xampp/htdocs/blog/resources/views/contact.blade.php",
+		"/F/xampp/htdocs/blog/app/View/Components/Header.php",
+		"/F/xampp/htdocs/blog/resources/views/getdata.blade.php",
+		"/F/xampp/htdocs/blog/resources/views/users.blade.php",
+		"/F/xampp/htdocs/phpbasics/index.php",
+		"/F/xampp/htdocs/phpbasics/getdata.php",
+		"/F/xampp/htdocs/php/math/index.php"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": true,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "composer.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 278.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
